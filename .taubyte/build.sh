@@ -1,3 +1,3 @@
-cp *.png /out
+cp *.jpeg /out
 
 exit $?
