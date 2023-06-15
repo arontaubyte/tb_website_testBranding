@@ -1,3 +1,3 @@
-cp index.html /out
+cp *.png /out
 
 exit $?
